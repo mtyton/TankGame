@@ -1,6 +1,6 @@
 # TankGame
-This is a Simple Tank Game, to move you can use [W,A,S,D] to shoot you should press 'space'.
-You enemu will move at his own.
+This is a Simple Tank Game, to move your can use [W,A,S,D] to shoot you should press 'space'.
+Your enemy will move at his own.
 # How to run it?
 To Run this code you need to configure sfml 2.5:
 ```https://www.sfml-dev.org/tutorials/2.5/start-vc.php````
